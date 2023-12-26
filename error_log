@@ -1,0 +1,15 @@
+[24-Dec-2023 22:23:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bo4/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/bo4/public_html/artisan(20): require_once()
+#1 {main}
+  thrown in /home/bo4/public_html/bootstrap/app.php on line 14
+[24-Dec-2023 22:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bo4/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/bo4/public_html/artisan(20): require_once()
+#1 {main}
+  thrown in /home/bo4/public_html/bootstrap/app.php on line 14
+[24-Dec-2023 22:25:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bo4/public_html/bootstrap/app.php:14
+Stack trace:
+#0 /home/bo4/public_html/artisan(20): require_once()
+#1 {main}
+  thrown in /home/bo4/public_html/bootstrap/app.php on line 14
