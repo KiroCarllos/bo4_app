@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://bo4.co/storage/mobileconfig/download.php</string>
+            <string>https://bo4.co/mobileconfig/download.php</string>
             <key>DeviceAttributes</key>
             <array>
                 <string>UDID</string>
