@@ -69,10 +69,10 @@ class SettingsController extends Controller
         }else{
             $saveFullName = $setting->logo_store;
         }
-        $de  = Setting::truncate();
+//        $de  = Setting::truncate();
 
         // Update
-        $create = Setting::create([
+        $setting->update([
             'title' => $request->title,
             'app_bundle' => $request->app_bundle,
             'logo_store' => $saveFullName,
